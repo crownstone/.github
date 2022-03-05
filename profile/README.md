@@ -6,14 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="http://crownstone.github.io/bluenet/">
-    <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation" />
-  </a>
-  <a href="https://github.com/crownstone/bluenet/actions">
-    <img src="https://github.com/crownstone/bluenet/actions/workflows/bluenet-continuous-integration.yml/badge.svg" alt="Build Status" />
-  </a>
-  <a href="https://crownstone.slack.com/">
-    <img src="https://img.shields.io/badge/Forum-Slack-blue" alt="Forum" />
+  <a href="https://crownstone.rocks/forum">
+    <img src="https://img.shields.io/badge/Forum-Discord-blue" alt="Forum" />
   </a>
   <a href="https://twitter.com/CrownstoneRocks">
     <img src="https://img.shields.io/badge/Twitter-CrownstoneRocks-blue" alt="Twitter" />
